@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\bin\Debug\netcoreapp2.2\2.5Potencia.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\bin\Debug\netcoreapp2.2\2.5Potencia.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\bin\Debug\netcoreapp2.2\2.5Potencia.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\bin\Debug\netcoreapp2.2\2.5Potencia.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\bin\Debug\netcoreapp2.2\2.5Potencia.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\obj\Debug\netcoreapp2.2\2.5Potencia.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\obj\Debug\netcoreapp2.2\2.5Potencia.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\obj\Debug\netcoreapp2.2\2.5Potencia.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\obj\Debug\netcoreapp2.2\2.5Potencia.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\obj\Debug\netcoreapp2.2\2.5Potencia.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.5Potencia\obj\Debug\netcoreapp2.2\2.5Potencia.vbprojAssemblyReference.cache

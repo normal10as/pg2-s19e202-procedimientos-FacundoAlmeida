@@ -1,0 +1,10 @@
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\bin\Debug\netcoreapp2.2\2.4VolumenCilindro.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\bin\Debug\netcoreapp2.2\2.4VolumenCilindro.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\bin\Debug\netcoreapp2.2\2.4VolumenCilindro.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\bin\Debug\netcoreapp2.2\2.4VolumenCilindro.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\bin\Debug\netcoreapp2.2\2.4VolumenCilindro.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\obj\Debug\netcoreapp2.2\2.4VolumenCilindro.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\obj\Debug\netcoreapp2.2\2.4VolumenCilindro.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\obj\Debug\netcoreapp2.2\2.4VolumenCilindro.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\obj\Debug\netcoreapp2.2\2.4VolumenCilindro.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.4VolumenCilindro\obj\Debug\netcoreapp2.2\2.4VolumenCilindro.pdb

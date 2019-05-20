@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\bin\Debug\netcoreapp2.2\2.6Acumuladora.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\bin\Debug\netcoreapp2.2\2.6Acumuladora.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\bin\Debug\netcoreapp2.2\2.6Acumuladora.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\bin\Debug\netcoreapp2.2\2.6Acumuladora.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\bin\Debug\netcoreapp2.2\2.6Acumuladora.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\obj\Debug\netcoreapp2.2\2.6Acumuladora.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\obj\Debug\netcoreapp2.2\2.6Acumuladora.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\obj\Debug\netcoreapp2.2\2.6Acumuladora.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\obj\Debug\netcoreapp2.2\2.6Acumuladora.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\obj\Debug\netcoreapp2.2\2.6Acumuladora.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.6Acumuladora\obj\Debug\netcoreapp2.2\2.6Acumuladora.vbprojAssemblyReference.cache

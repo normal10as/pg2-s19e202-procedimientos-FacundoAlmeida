@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\bin\Debug\netcoreapp2.2\2.3Hipotenusa.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\bin\Debug\netcoreapp2.2\2.3Hipotenusa.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\bin\Debug\netcoreapp2.2\2.3Hipotenusa.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\bin\Debug\netcoreapp2.2\2.3Hipotenusa.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\bin\Debug\netcoreapp2.2\2.3Hipotenusa.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\obj\Debug\netcoreapp2.2\2.3Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\obj\Debug\netcoreapp2.2\2.3Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\obj\Debug\netcoreapp2.2\2.3Hipotenusa.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\obj\Debug\netcoreapp2.2\2.3Hipotenusa.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\obj\Debug\netcoreapp2.2\2.3Hipotenusa.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.3Hipotenusa\obj\Debug\netcoreapp2.2\2.3Hipotenusa.vbprojAssemblyReference.cache
