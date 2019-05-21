@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\bin\Debug\netcoreapp2.2\2.7Sumas.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\bin\Debug\netcoreapp2.2\2.7Sumas.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\bin\Debug\netcoreapp2.2\2.7Sumas.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\bin\Debug\netcoreapp2.2\2.7Sumas.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\bin\Debug\netcoreapp2.2\2.7Sumas.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\obj\Debug\netcoreapp2.2\2.7Sumas.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\obj\Debug\netcoreapp2.2\2.7Sumas.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\obj\Debug\netcoreapp2.2\2.7Sumas.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\obj\Debug\netcoreapp2.2\2.7Sumas.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\obj\Debug\netcoreapp2.2\2.7Sumas.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.7Sumas\obj\Debug\netcoreapp2.2\2.7Sumas.pdb

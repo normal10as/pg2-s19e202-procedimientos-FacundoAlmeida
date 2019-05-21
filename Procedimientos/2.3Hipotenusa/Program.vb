@@ -21,8 +21,6 @@ Module Hipotenusa
 
     Function Resultado() As Single
         C = Math.Sqrt(A * A + B * B)
-        ' C = D + Math.Sqrt(C)
-        'C = Math.Sqrt(C)
         Console.WriteLine("resultado de D " & C)
 
         Return C

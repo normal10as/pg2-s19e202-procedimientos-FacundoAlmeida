@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\bin\Debug\netcoreapp2.2\2.8SuperficieFiguras.deps.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\bin\Debug\netcoreapp2.2\2.8SuperficieFiguras.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\bin\Debug\netcoreapp2.2\2.8SuperficieFiguras.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\bin\Debug\netcoreapp2.2\2.8SuperficieFiguras.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\bin\Debug\netcoreapp2.2\2.8SuperficieFiguras.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\obj\Debug\netcoreapp2.2\2.8SuperficieFiguras.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\obj\Debug\netcoreapp2.2\2.8SuperficieFiguras.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\obj\Debug\netcoreapp2.2\2.8SuperficieFiguras.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\obj\Debug\netcoreapp2.2\2.8SuperficieFiguras.dll
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\obj\Debug\netcoreapp2.2\2.8SuperficieFiguras.pdb
+C:\Users\Facu\source\repos\pg2-s19e202-procedimientos-FacundoAlmeida\Procedimientos\2.8SuperficieFiguras\obj\Debug\netcoreapp2.2\2.8SuperficieFiguras.vbprojAssemblyReference.cache
