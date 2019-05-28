@@ -11,9 +11,9 @@ Module Program
         Console.WriteLine("Ingrese tercer valor: ")
         lado_3 = Console.ReadLine()
 
-        Console.WriteLine("El resultado es: " & Figura(lado_1))
-        Console.WriteLine("El resultado es: " & Figura(lado_1, lado_2))
-        Console.WriteLine("El resultado es: " & Figura(lado_1, lado_2, lado_3))
+        Console.WriteLine("El resultado cuadrado: " & Figura(lado_1))
+        Console.WriteLine("El resultado rectangulo: " & Figura(lado_1, lado_2))
+        Console.WriteLine("El resultado trapecio: " & Figura(lado_1, lado_2, lado_3))
     End Sub
 
     Function Figura(lado_1 As Single)

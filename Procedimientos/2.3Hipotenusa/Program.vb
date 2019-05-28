@@ -2,27 +2,20 @@ Imports System
 Imports System.Math
 
 Module Hipotenusa
-    Public A As Single
-    Public B As Single
-    Public C As Single
-    Public D As Single
-
     Sub Main(args As String())
+        Dim a, b As Single
+
         Console.WriteLine("Ingrese el lado A: ")
-        A = Console.ReadLine()
+        a = Console.ReadLine()
         Console.WriteLine("Ingrese lado B: ")
-        B = Console.ReadLine()
-
-        Console.WriteLine("El resultado de los lado C es: " & Resultado())
-
-
+        b = Console.ReadLine()
+        Console.WriteLine("El resultado de los lado C es: " & Resultado(a, b))
 
     End Sub
 
-    Function Resultado() As Single
-        C = Math.Sqrt(A * A + B * B)
-        Console.WriteLine("resultado de D " & C)
-
-        Return C
+    Function Resultado(a, b) As Single
+        Dim c As Single
+        c = Sqrt(Pow(a, 2) + Pow(b, 2))
+        Return c
     End Function
 End Module

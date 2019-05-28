@@ -1,7 +1,7 @@
 Imports System
 
 Module Program
-    Public suma, acumulador As Single
+    Private suma, acumulador As Single
 
     Sub Main(args As String())
 
@@ -9,13 +9,8 @@ Module Program
         acumulador = Console.ReadLine()
         Acumular()
         Console.WriteLine("El valor acumulado es: " & suma)
-
-        Console.WriteLine("Ingrese otro numero ")
-        acumulador = Console.ReadLine()
         Acumular()
         Console.WriteLine("El valor acumulado es: " & suma)
-        Console.WriteLine("Ingrese otro numero ")
-        acumulador = Console.ReadLine()
         Acumular()
         Console.WriteLine("Total de suma: " & suma)
     End Sub
